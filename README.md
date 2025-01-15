@@ -1,10 +1,10 @@
-## DSC_WOW_ABHAVYA
-# ABHAVYA
+## HerSafeSpace
+# HerSafeSpace
 ## Every woman is incredible and safe!!
 <p align="center">
 <img src="Cream and Black Natural Makeup Beauty Logo (1).png" width='350'>
 </p>
-'Abhavya' is a website that is developed with an intention of keeping women in society safe and secure.
+'HerSafeSpace' is a website that is developed with an intention of keeping women in society safe and secure.
 As the name suggests, every woman is incredible, and to make her feel protected and safe we started this initiative. We focus on bringing justice to all the victims out there and making them self confident by providing different self-defense and educational courses. We make them feel special by organizing various events. We motivate women by sharing different real-life inspiring stories shared by women via blogs. 
 
 ##### Women: A Century of Change.
@@ -30,8 +30,3 @@ We provide a platform for women to report crimes against them and to seek mental
 - HTML
 - CSS
 - Java Script
-
-## For more discription you can go to:
-https://docs.google.com/presentation/d/1mDTJMJ0DqZlKNUzpNfgvpWf7YMRftvfj/edit#slide=id.p6
-
-https://youtu.be/otypwEYY-eQ
