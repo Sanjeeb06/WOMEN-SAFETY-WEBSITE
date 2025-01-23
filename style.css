@@ -635,9 +635,7 @@ p {
 	#about .col-right h1 {
 		text-align: left;
 	}
-	/* End About */
-
-	/* contact  */
+	
 	#contact .contact {
 		flex-direction: column;
 		padding: 100px 0;
@@ -671,6 +669,9 @@ p {
 	}
 	/* End contact  */
 }
+
+
+
 /* End Media Query For Tablet */
 
 /* Media Query For Desktop */
@@ -702,4 +703,7 @@ p {
 		margin: 1.5%;
 	}
 }
+
+
+
 /* End  Media Query For Desktop */
