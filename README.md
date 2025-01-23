@@ -13,6 +13,7 @@ Women are the future fundamental of every country.
 We focus on strengthening the measures for the safety of women in the country and instill a greater sense of security in them through speedy and effective administration of justice in a holistic manner and by providing a safer environment for women.
 We provide a platform for women to report crimes against them and to seek mental and physical help. We promise every woman to make them feel safer and protected.
 
+
 ## SERVICES 
 - Register a rape case.
 - Register case against stalking.
@@ -25,7 +26,6 @@ We provide a platform for women to report crimes against them and to seek mental
  If a woman feels unsafe or wants to share something, she can have a one-to-one conversation with the coordinator of the site using our chat box function.
  We don't reveal victim's identity in public.
 
- 
 ## 'Women were incredible, Women are incredible, and Women will always be incredible'
 # Technical Stack
 - HTML
